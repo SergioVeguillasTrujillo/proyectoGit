@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Primera línea
@@ -9,3 +10,6 @@ Segunda línea
 tercera línea
 >>>>>>> RamaDos
 dos
+=======
+uno
+>>>>>>> af7b62427e977182dddede2cd9c7e9f37be1e65f
