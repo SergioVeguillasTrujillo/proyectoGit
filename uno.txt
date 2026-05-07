@@ -1,10 +1,1 @@
-
-<<<<<<< HEAD
-Primera línea
-=======
-Segunda línea
-<<<<<<< HEAD
->>>>>>> RamaDos
-=======
-tercera línea
->>>>>>> RamaDos
+uno
